@@ -5,4 +5,5 @@ This projects helps to create QR code of any UPI ID ( Unified Payment Interface 
 
 Python program to create UPI QR code interface.
 
-![image](https://github.com/user-attachments/assets/8a1b22ea-2ddd-46d9-9853-1f578a684416)
+![image](https://github.com/user-attachments/assets/33c35bf3-18ed-46c4-b755-abbf788fa195)
+
